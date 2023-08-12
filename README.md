@@ -8,7 +8,7 @@ This project is OpenSource, feel free to use, study and/or send pull request.
 
 # Before Running
 
-Make sure that all other files and folders are removed excluding( Worm.cpython-310.pyc ) or else it will be removed by the Worm
+Make sure that all other files and folders are removed excluding( Worm.cpython-310.pyc ) or else it will be removed by the Worm.
 
 # Not Working No Problem
 
@@ -35,3 +35,4 @@ WormyWorm is a worm which is a standalone Windows malware program that replicate
 
 ✓ Works even without internet connection.
 
+✓ Consumes atleast 25GB of storage in less than a minute.
