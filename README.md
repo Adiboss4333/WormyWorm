@@ -6,6 +6,14 @@ ZitWorm is a windows worm that rapidly self-replicates from a single file.
 
 This project is OpenSource, feel free to use, study and/or send pull request.
 
+# Prerequisites
+1: Python 3 should me installed in your system.
+2: Run the below command to install libraries needed for the Worm to run. Make sure while running the command the requirements.txt is present in the same directory where you are running the command from.
+
+<pre>
+pip install -r requirements.txt
+</pre>
+
 # Before Running
 
 Make sure that all other files and folders are removed excluding( Worm.cpython-310.pyc ) or else it will be removed by the Worm.
